@@ -31,3 +31,6 @@ def main():
 if __name__ == "__main__":
     main()
 ```
+
+# Warning
+Note that the `call_rate` and `CallRate` is thread safe (not process safe)
