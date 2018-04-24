@@ -1,3 +1,9 @@
+# Install
+
+```
+python3 setyp.py install
+```
+
 # Usage
 
 ``` python
