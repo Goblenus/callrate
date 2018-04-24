@@ -1,7 +1,7 @@
 # Install
 
 ```
-python3 setyp.py install
+python3 setup.py install
 ```
 
 # Usage
