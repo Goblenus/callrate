@@ -4,6 +4,12 @@
 python3 setup.py install
 ```
 
+or
+
+```
+pip3 install callrate
+```
+
 # Usage
 
 ``` python
